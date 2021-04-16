@@ -1,0 +1,8 @@
+.users__item a {
+    text-decoration: none;
+    color: black;
+}
+
+.users__item .active {
+    color: gold;
+}

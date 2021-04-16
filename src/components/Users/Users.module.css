@@ -1,0 +1,17 @@
+.wrapper {
+    padding: 10px 10px;
+}
+
+.userPhoto {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+}
+
+span {
+    cursor: pointer;
+}
+
+.selected {
+    font-weight: bold;
+}

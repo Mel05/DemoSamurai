@@ -1,0 +1,13 @@
+.messages {
+    display: grid;
+    grid-template-columns: 30% 70%;
+}
+
+.users {
+    padding: 20px;
+}
+
+.post {
+    padding: 20px;
+}
+
